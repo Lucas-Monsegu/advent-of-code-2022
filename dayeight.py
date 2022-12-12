@@ -27,7 +27,7 @@ with open('input.txt', 'r') as f:
     lines = f.readlines()
     lines = [list(map(int,line.replace('\n',''))) for line in lines]
     seen_trees = [[0 for i in range(len(lines))]for line in range(len(lines))]
-    # print('left')
+    # pr.int('left')
     r = 0 
     for y in range(len(lines)):
         for x in range(len(lines)):
