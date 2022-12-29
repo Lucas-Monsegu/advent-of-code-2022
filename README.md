@@ -2,4 +2,16 @@
 
 [Advent of Code](https://adventofcode.com/) is an annual set of Christmas-themed computer programming challenges that follow an Advent calendar.[1][2] It has been running since 2015
 
-This is the code of my participation
+The goal is to solve the exercice the fastest way possible
+
+# Dependencies
+
+The code only need python3.10 to run.
+
+# Code
+
+The code is meant to get the result the fastest way possible. It is not clean and might not work on others people inputs.
+
+# Screenshot
+
+![stars](resources/images/advent_of_code.png)
